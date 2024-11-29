@@ -1,0 +1,26 @@
+/* Styling the navbar */
+*{
+    text-decoration: none;
+    box-sizing: content-box;
+    margin: 0;
+}
+
+.navbar{
+    display: flex; 
+    justify-content: space-evenly;
+    padding: 20px;
+    background: black;
+}
+
+.navbar > a {
+    font-size: 2em;
+    background-color: darkblue;
+    color: white;
+    padding: 0.4em;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.navbar > a:hover{
+    background-color: blue;
+}
