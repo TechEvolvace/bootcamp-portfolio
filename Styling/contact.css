@@ -1,4 +1,15 @@
 /* Styling for the Contact page */
+:root{
+    /* Electiric blue color variants*/
+    --electric-blue-1: #00FFFF;
+    --electric-blue-2: #007FFF;
+    --electric-blue-3: #1F75FE;
+    --electric-blue-4: #162CF1;
+    --electric-blue-5: #081DD1;
+    --electric-blue-6: #091AAF;
+    --electric-blue-7: #031088;
+}
+
 body{
     display: flex;
     flex-direction: column;
