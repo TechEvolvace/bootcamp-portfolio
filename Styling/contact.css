@@ -8,6 +8,17 @@
     --electric-blue-5: #081DD1;
     --electric-blue-6: #091AAF;
     --electric-blue-7: #031088;
+
+    /* Phthalo blue color variants */
+    --phthalo-blue-1: #000F89;
+    --phthalo-blue-2: #FFF8FF;
+    --phthalo-blue-3: #543EC0;
+    --phthalo-blue-4: #7256DC;
+    --phthalo-blue-5: #8F6FF9;
+    --phthalo-blue-6: #AD89FF;
+    --phthalo-blue-7: #CAA4FF;
+    --phthalo-blue-8: #E8BFFF;
+    --phthalo-blue-9: #FFDBFF;
 }
 
 body{
