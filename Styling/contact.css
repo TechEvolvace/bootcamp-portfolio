@@ -19,6 +19,25 @@
     --phthalo-blue-7: #CAA4FF;
     --phthalo-blue-8: #E8BFFF;
     --phthalo-blue-9: #FFDBFF;
+
+    /* Tech Blue color variants */
+    --sapphire: #0950CD;
+    --picton-blue: #3CD2F9;
+    --turquoise: #4AF3F8;
+    --white: #FFFFFF;
+    --spiro-disco-ball: #29C4F8;
+    --oxford-blue: #04165D;
+
+    /* Beautiful blue color variants */
+    --beautiful-blue-1: #03045E;
+    --beautiful-blue-2: #023E8A;
+    --beautiful-blue-3: #0077B6;
+    --beautiful-blue-4: #0096C7;
+    --beautiful-blue-5: #00B4D8;
+    --beautiful-blue-6: #48CAE4;
+    --beautiful-blue-7: #90E0EF;
+    --beautiful-blue-8: #ADE8F4;
+    --beautiful-blue-9: #CAF0F8;
 }
 
 body{
