@@ -1,1 +1,70 @@
 /* Styling for the Contact page */
+:root{
+    /* Electiric blue color variants*/
+    --electric-blue-1: #00FFFF;
+    --electric-blue-2: #007FFF;
+    --electric-blue-3: #1F75FE;
+    --electric-blue-4: #162CF1;
+    --electric-blue-5: #081DD1;
+    --electric-blue-6: #091AAF;
+    --electric-blue-7: #031088;
+
+    /* Phthalo blue color variants */
+    --phthalo-blue-1: #000F89;
+    --phthalo-blue-2: #FFF8FF;
+    --phthalo-blue-3: #543EC0;
+    --phthalo-blue-4: #7256DC;
+    --phthalo-blue-5: #8F6FF9;
+    --phthalo-blue-6: #AD89FF;
+    --phthalo-blue-7: #CAA4FF;
+    --phthalo-blue-8: #E8BFFF;
+    --phthalo-blue-9: #FFDBFF;
+
+    /* Tech Blue color variants */
+    --sapphire: #0950CD;
+    --picton-blue: #3CD2F9;
+    --turquoise: #4AF3F8;
+    --white: #FFFFFF;
+    --spiro-disco-ball: #29C4F8;
+    --oxford-blue: #04165D;
+
+    /* Beautiful blue color variants */
+    --beautiful-blue-1: #03045E;
+    --beautiful-blue-2: #023E8A;
+    --beautiful-blue-3: #0077B6;
+    --beautiful-blue-4: #0096C7;
+    --beautiful-blue-5: #00B4D8;
+    --beautiful-blue-6: #48CAE4;
+    --beautiful-blue-7: #90E0EF;
+    --beautiful-blue-8: #ADE8F4;
+    --beautiful-blue-9: #CAF0F8;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+main > .contact{
+    justify-self: center;
+    border: 1px solid red;
+    margin: 2em 1em;
+}
+
+main > .contact > h1{
+    font-size: 2em;
+    padding: 0.8em 0;
+    text-align: center;
+}
+
+main > .contact > h2{
+    font-size: 1.5em;
+    text-align: center;
+    padding-bottom: 0.2em;
+}
+
+main > .contact > p{
+    font-size: 1.2em;
+    text-align: center;
+    margin: 0.2em;
+}
